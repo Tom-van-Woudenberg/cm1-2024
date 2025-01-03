@@ -3,3 +3,4 @@ root: intro.md
 
 chapters:
 - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/diagrams_exercise.ipynb
+- file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/diagrams_exercise2.ipynb
