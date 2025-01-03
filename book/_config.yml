@@ -39,9 +39,6 @@ sphinx:
       chtml: {
         mtextInheritFont: true # To typeset text within math prettier
       }
-  local_extensions:
-    apastyle: _ext/
-    bracket_citation_style: _ext/
   extra_extensions:
     - sphinx.ext.imgconverter
     - jupyterbook_patches
