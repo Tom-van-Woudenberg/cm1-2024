@@ -30,6 +30,7 @@ sphinx:
         thebe: true
       logo:
         text: "Interactive exercise on section force diagrams"
+      announcement : "This book has been moved to: <a href='https://oit.tudelft.nl/CTB1110' style='color:white'>https://oit.tudelft.nl/<new repository in TUDelft-book organization> </a>."
     html_show_copyright: false
     html_last_updated_fmt: '%B %-d, %Y'
     bibtex_default_style: myapastyle
